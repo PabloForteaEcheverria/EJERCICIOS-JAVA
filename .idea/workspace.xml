@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eadb731e-8fab-4843-8da0-d1fd8ad64191" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOLEAN/Comprobar_contraseña.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOLEAN/Mayor_de_edad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOLEAN/Mayor_de_edad_sin_ELSE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructores/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructores/Mascota_nombre_tipo_edad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Del_10_al_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Del_1_al_100_par_o_impar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Del_5_al_50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Del_uno_al_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Descompone_palabra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Impares_del_1_al_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Multiplos_de_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Pares_del_1_al_50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FOR/Tabla_multiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/INDEFINIDOS/PLANTILLA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOf/Contador_de_consonantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOf/Contador_de_letra_o.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOf/Contador_de_vocale_con_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOf/Contador_de_vocales_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOf/Contador_letra_o_con_IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOf/Contador_letra_repetida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOf/Contador_vocales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOf/Serie_de_numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Plantilla_EJERCICIOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch/SwitchNumeroOperacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch/SwitchNumeroOperacionMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch/Switch_con_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch/Switch_dia_semana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch/Switch_dia_semana_Anidado_IF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Cita_medica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Contador_positivos_negativos_cero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Del_1_al_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Max_temperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Pin_3_intentos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Registro_de_notas_y_calculo_de_media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Registro_de_temperaturas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Registro_temperaturas_validas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Repetir_contraseña_hasta_acertar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Suma_solo_pares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Sumar_hasta_opcion_cero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WHILE/Usuario_Contraseña_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/AreaPerimetro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Buble_fin_con_punto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Bucle_fin_con_punto_PARES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/ClasificacionExamen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Crear_Metodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Crear_metodo_coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Crear_metodo_sumar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Declarar_e_Inicializar_un_Objeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Escaner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/Multiplos_de_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/metodoPasswd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicos/practicas_Repaso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Contador_de_vocales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/ConvertirSegundos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Del_1_al_100_divisibles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicios_MENU_5_opciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Elegir_una_accion_switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Equals2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Es_primo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Es_primo_BOOLEAN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Factorial_de_N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/MayorDeEdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/MillaresCentenasUnidades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/MillaresCentenasUnidadesMetodoDos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Suma_10_numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Suma_del_1_al_N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Sumar_rango.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/Sumar_solo_pares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/par_impar.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="32XpAK7iY2xP1kXmGQuRssDS3ai" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eadb731e-8fab-4843-8da0-d1fd8ad64191" name="Changes" comment="" />
+      <created>1757576632282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757576632282</updated>
+      <workItem from="1757576635228" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
