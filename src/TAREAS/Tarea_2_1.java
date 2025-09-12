@@ -1,6 +1,6 @@
-package INDEFINIDOS;
+package TAREAS;
 
-public class Tarea_2 {
+public class Tarea_2_1 {
 
 	public static void main(String[] args) {
 		
