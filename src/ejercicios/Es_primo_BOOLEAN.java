@@ -32,7 +32,7 @@ public class Es_primo_BOOLEAN {
 		else {
 				System.out.println(num + " No es primo");
 			}
-	
+		sc.close();
 	
 	}
 
