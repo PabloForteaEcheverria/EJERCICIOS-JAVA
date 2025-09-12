@@ -1,4 +1,4 @@
-package TAREAS;
+package TAREAS_20024;
 
 public class Tarea_2_1 {
 
