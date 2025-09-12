@@ -1,4 +1,4 @@
-package TAREAS_20024;
+package TAREAS_2024;
 
 import java.util.Scanner;
 
