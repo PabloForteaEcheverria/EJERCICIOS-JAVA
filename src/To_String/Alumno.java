@@ -29,7 +29,6 @@ public class Alumno {
 	
 		Alumno nuevoAlumno = new Alumno("Pablo","Fortea",25,"Bilbao");
 		 
-		System.out.println("Nuevo alumno añadido: \n"+ nuevoAlumno);
+		System.out.println("-----> Nuevo alumno añadido: \n"+ nuevoAlumno);
 	}
-
 }
