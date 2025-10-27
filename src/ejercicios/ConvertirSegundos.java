@@ -25,3 +25,17 @@ public class ConvertirSegundos {
 	}
 	
 }
+/* opcion con %: 
+ * numero = sc.nextInt();
+        
+        horas = numero / 3600;
+        minutos = (numero % 3600) / 60;
+        segundos = numero % 60;
+        
+        System.out.println("Horas: " + horas);
+        System.out.println("Minutos: " + minutos);
+        System.out.println("Segundos: " + segundos);
+        
+        sc.close();
+
+ * */
